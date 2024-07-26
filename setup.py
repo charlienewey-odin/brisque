@@ -23,7 +23,7 @@ with open("README.md", "r") as fh:
 
 
 setuptools.setup(
-    name="brisque", # Replace with your own username
+    name="brisque-opencv",
     version=__version__,
     author="Rehan Guha",
     py_modules=["brisque"],
